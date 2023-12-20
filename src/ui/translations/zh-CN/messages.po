@@ -8,7 +8,7 @@ msgstr ""
 "Language: zh\n"
 "Project-Id-Version: cs-demo-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2023-12-17 23:26\n"
+"PO-Revision-Date: 2023-12-19 12:05\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -2058,7 +2058,7 @@ msgstr "Gamers Club"
 #: src/ui/demos/use-demo-sources.ts
 msgctxt "Demo source name"
 msgid "Perfect World"
-msgstr ""
+msgstr "完美世界"
 
 #: src/ui/demos/use-demo-sources.ts
 msgctxt "Demo source name"
@@ -4489,27 +4489,27 @@ msgstr "头部"
 
 #: src/ui/match/weapons/weapons-accuracy.tsx
 msgid "Chest"
-msgstr ""
+msgstr "胸部"
 
 #: src/ui/match/weapons/weapons-accuracy.tsx
 msgid "Stomach"
-msgstr ""
+msgstr "腹部"
 
 #: src/ui/match/weapons/weapons-accuracy.tsx
 msgid "Left arm"
-msgstr ""
+msgstr "左臂"
 
 #: src/ui/match/weapons/weapons-accuracy.tsx
 msgid "Right arm"
-msgstr ""
+msgstr "右臂"
 
 #: src/ui/match/weapons/weapons-accuracy.tsx
 msgid "Left leg"
-msgstr ""
+msgstr "左腿"
 
 #: src/ui/match/weapons/weapons-accuracy.tsx
 msgid "Right leg"
-msgstr ""
+msgstr "右腿"
 
 #: src/ui/matches/table/match-count.tsx
 msgid "{matchCount, plural, one {# match} other {# matches}}"
@@ -4521,19 +4521,19 @@ msgstr ""
 
 #: src/ui/matches/table/matches-table.tsx
 msgid "Loading matches…"
-msgstr ""
+msgstr "加在比赛中…"
 
 #: src/ui/matches/table/no-matches.tsx
 msgid "No match found with active filters."
-msgstr ""
+msgstr "未找到与筛选结果匹配的比赛。"
 
 #: src/ui/matches/table/no-matches.tsx
 msgid "No match found yet, you have to analyze demos to generate matches."
-msgstr ""
+msgstr "尚未找到比赛，您必须分析录像后才能生成匹配的比赛。"
 
 #: src/ui/matches/table/selected-match-count.tsx
 msgid "{0, plural, one {# match selected} other {# matches selected}}"
-msgstr ""
+msgstr "{0, plural, one {# 录像已选择} other {# 录像已选择}}"
 
 #: src/ui/player/charts/average-damage-per-round-chart.tsx
 msgctxt "Chart title"
@@ -4543,7 +4543,7 @@ msgstr ""
 #: src/ui/player/charts/average-damage-per-round-chart.tsx
 msgctxt "Chart axis label average damage per round"
 msgid "ADR"
-msgstr ""
+msgstr "伤害/回合"
 
 #: src/ui/player/charts/clutch-won-percentage-chart.tsx
 msgctxt "Chart title"
@@ -4578,7 +4578,7 @@ msgstr ""
 #: src/ui/player/charts/kill-death-ratio-chart.tsx
 msgctxt "Chart axis label kill death ratio"
 msgid "K/D"
-msgstr ""
+msgstr "击杀/死亡"
 
 #: src/ui/player/charts/match-count-chart.tsx
 msgctxt "Chart title"
@@ -4611,7 +4611,7 @@ msgstr "月"
 #: src/ui/player/charts/x-axis.tsx
 msgctxt "Select option time period"
 msgid "Year"
-msgstr ""
+msgstr "年"
 
 #: src/ui/player/charts/use-player-chart-options.ts
 #: src/ui/player/charts/x-axis.tsx
@@ -4665,37 +4665,37 @@ msgstr ""
 #: src/ui/player/overview/vac-panel.tsx
 msgctxt "Panel title"
 msgid "VAC"
-msgstr ""
+msgstr "VAC"
 
 #: src/ui/player/overview/vac-panel.tsx
 msgctxt "Panel label"
 msgid "Bans"
-msgstr ""
+msgstr "封禁"
 
 #: src/ui/player/overview/vac-panel.tsx
 msgctxt "Panel label"
 msgid "Game bans"
-msgstr ""
+msgstr "游戏封禁"
 
 #: src/ui/player/overview/vac-panel.tsx
 msgctxt "Panel label"
 msgid "Last ban date"
-msgstr ""
+msgstr "最后封禁的日期"
 
 #: src/ui/player/overview/vac-panel.tsx
 msgctxt "Panel label"
 msgid "Economy ban"
-msgstr ""
+msgstr "禁止交易"
 
 #: src/ui/player/overview/vac-panel.tsx
 msgctxt "Panel label"
 msgid "Community banned"
-msgstr ""
+msgstr "社区封禁"
 
 #: src/ui/player/overview/vac-panel.tsx
 msgctxt "Panel label"
 msgid "Profile"
-msgstr ""
+msgstr "资料"
 
 #: src/ui/player/overview/vac-panel.tsx
 msgid "Private"
@@ -4723,7 +4723,7 @@ msgstr ""
 #: src/ui/player/overview/win-rate-panel.tsx
 msgctxt "Panel label"
 msgid "Defeats"
-msgstr ""
+msgstr "败北"
 
 #: src/ui/player/pinned-player.tsx
 msgid "No pinned player found."
