@@ -5698,11 +5698,11 @@ msgstr "主题"
 #: src/ui/settings/video/ffmpeg/ffmpeg-location.tsx
 #: src/ui/settings/video/hlae/hlae-location.tsx
 msgid "File not found"
-msgstr ""
+msgstr "未找到文件"
 
 #: src/ui/settings/video/ffmpeg/ffmpeg-location.tsx
 msgid "Invalid FFmpeg executable"
-msgstr ""
+msgstr "FFmpeg 可执行文件无效"
 
 #: src/ui/settings/video/ffmpeg/ffmpeg-location.tsx
 #: src/ui/settings/video/hlae/hlae-location.tsx
@@ -5715,7 +5715,7 @@ msgstr ""
 
 #: src/ui/settings/video/hlae/hlae-location.tsx
 msgid "Invalid HLAE executable"
-msgstr ""
+msgstr "HLAE 可执行文件无效"
 
 #: src/ui/title-bar/history/history-back-button.tsx
 msgctxt "Tooltip"
@@ -5729,5 +5729,5 @@ msgstr ""
 
 #: src/ui/title-bar/update-available-button.tsx
 msgid "Update ready!"
-msgstr ""
+msgstr "更新已准备就绪！"
 
